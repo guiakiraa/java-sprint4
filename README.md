@@ -30,8 +30,24 @@
 ### Clonando o repositório
 
 ```bash
-https://github.com/guiakiraa/challenge-java-mottu.git
-cd challenge-java-mottu
+https://github.com/guiakiraa/java-sprint4.git
+cd java-sprint4
+```
+
+### Configurando o Banco de Dados
+
+Antes de executar o projeto, é necessário configurar a URL do banco de dados no arquivo:
+
+```bash
+src/main/resources/application.properties
+```
+
+Adicione ou edite as seguintes propriedades conforme o seu ambiente:
+
+```bash
+spring.datasource.url=jdbc:mysql://<host>:<porta>/<nome_do_banco>
+spring.datasource.username=<usuario>
+spring.datasource.password=<senha>
 ```
 
 ### Executando o projeto
