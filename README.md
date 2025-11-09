@@ -17,6 +17,7 @@
 ---
 
 ## Link do vídeo
+https://youtu.be/PgVxRbloOm8?si=c7RpAoEisZQk6UQD
 
 ---
 
